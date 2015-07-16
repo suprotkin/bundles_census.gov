@@ -17,8 +17,6 @@ contact_bundle:
     creator:
         email: roman.suprotkin@developex.org
         name: Roman Suprotkin
-        org: ''
-        url: ''
     maintainer: {}
 contact_source:
     creator:
@@ -32,16 +30,6 @@ external_documentation:
         title: "2008 \u2013 2012 SAHIE Estimates using the American Community Survey\
             \ (ACS) Data"
         url: http://www.census.gov/did/www/sahie/data/20082012/index.html
-    documentation:
-        description: The primary documentation file
-        source: null
-        title: Main Documentation
-        url: http://example.com
-    download:
-        description: Web page that links to the source files.
-        source: null
-        title: Download Page
-        url: http://example.com
 identity:
     bspace: null
     btime: null
